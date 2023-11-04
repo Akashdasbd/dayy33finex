@@ -1,2 +1,1 @@
-# dayy33finex
-finx
+# finx
